@@ -27,6 +27,7 @@ The resource table below summarizes results of individual applications, comparin
 | bzbub2 | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv9z5or/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mvt30dp/) | 33.56s | 10.22s | 4.97s | 6.8x | - |
 | Saurabh | - | [Twitter](https://x.com/Saurabh_kakran/status/1914593323781603467) | 5m 10s | 1m 4s | 53s | 5.8x | - |
 | Ecksters | - | [Reddit Comment 1](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv3q5qc/), [Reddit Comment 2](https://www.reddit.com/r/javascript/comments/1kz7dsp/comment/mv5avxx/)| 48s | 25s | 5.5s | 5.45x | - |
+| admin-peterbecom | [PR](https://github.com/peterbe/admin-peterbecom/pull/550) | [Blog post](https://www.peterbe.com/plog/vite-8-is-5x-faster) | 3.8s | - | 0.8s | 5x | - |
 | Payfit | - | [Twitter](https://x.com/youyuxi/status/1907327848052109500) | 55s | - | 11.74s | 4.7x | - |
 | Acre Software | (private repo) | [website](https://www.acresoftware.com/) | 1m54s | 38.96s | 25.41s | 4.49x | - |
 | Todor Andonov | - | [Twitter](https://x.com/andonov_t/status/1915215035992821831) | 47s | - | 12s | 4x | - |
